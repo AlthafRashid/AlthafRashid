@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlthafRashid
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ & C#
-- 💞️ I’m looking to collaborate on c++ projects
+- 🌱 C++,C# now learning java android Dev
 - 📫 How to reach me althafrashid01@gmail.com
 
 <!---
